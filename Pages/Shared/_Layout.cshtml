@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RazorWebApp</title>
+    <link rel="stylesheet" href="/css/site.css" />
+    <script src="/js/site.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">RazorWebApp</div>
+        <div class="date"><p>Today is:</p>@DateTime.Now.ToString("MM, dd, yyyy")</div>
+    </header>
+    <div class="container">
+        <nav class="nav-bar">
+            <ul>
+                <li><a asp-page="/Index">Home</a></li>
+                <li><a asp-page="/Razor">Razor</a></li>
+                <li><a asp-page="/About">About</a></li>
+            </ul>
+        </nav>
+        <main class="content">
+            @RenderBody()
+        </main>
+    </div>
+    <footer>
+        &copy; 2025 RazorWebApp. All rights reserved.
+    </footer>
+</body>
+</html>

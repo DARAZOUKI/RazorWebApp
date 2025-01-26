@@ -1,0 +1,18 @@
+﻿@page
+@using MyApp.Namespace
+@model RazorModel
+@{
+    var courses = new List<string> { "DTO57G,Webbutveckling I", "DT093G,Webbutveckling II" };
+    bool isFriday = DateTime.Now.DayOfWeek == DayOfWeek.Friday;
+}
+
+<h1>Welcome to the Razor Page</h1>
+<p>Here are some courses:</p>
+<ul>
+    @foreach (var course in courses)
+    {
+        <li>@course</li>
+    }
+</ul>
+<p>Today's date and time: @DateTime.Now</p>
+<p>@(isFriday ? "Idag är det fredag!" : "Idag är det inte fredag!")</p>
