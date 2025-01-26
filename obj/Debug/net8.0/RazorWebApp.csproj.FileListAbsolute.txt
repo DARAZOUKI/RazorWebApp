@@ -31,3 +31,4 @@ C:\Moment1.1.DT191G\RazorWebApp\obj\Debug\net8.0\ref\RazorWebApp.dll
 C:\Moment1.1.DT191G\RazorWebApp\bin\Debug\net8.0\RazorWebApp.staticwebassets.endpoints.json
 C:\Moment1.1.DT191G\RazorWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Moment1.1.DT191G\RazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.RazorWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Moment1.1.DT191G\RazorWebApp\obj\Debug\net8.0\RazorWebApp.sourcelink.json

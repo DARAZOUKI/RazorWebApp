@@ -5,16 +5,16 @@
       "PackagePath": "staticwebassets\\RazorWebApp.miuv8h45oq.bundle.scp.css"
     },
     {
-      "Id": "C:\\Moment1.1.DT191G\\RazorWebApp\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Moment1.1.DT191G\\RazorWebApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
       "Id": "C:\\Moment1.1.DT191G\\RazorWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Moment1.1.DT191G\\RazorWebApp\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Moment1.1.DT191G\\RazorWebApp\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
       "Id": "C:\\Moment1.1.DT191G\\RazorWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
